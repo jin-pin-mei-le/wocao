@@ -1,0 +1,3 @@
+/www/server/php/73/bin/php  start.php start -d
+
+/www/server/php/73/bin/php  start.php stop

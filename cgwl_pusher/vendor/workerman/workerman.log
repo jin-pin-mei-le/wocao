@@ -1,0 +1,48 @@
+2018-11-04 20:49:59 pid:7824 Workerman[start.php] start in DEBUG mode
+2018-11-04 20:53:36 pid:7824 Workerman[start.php] stopping ...
+2018-11-04 20:53:36 pid:7824 Workerman[start.php] has been stopped
+2018-11-04 20:53:54 pid:7831 Workerman[start.php] start in DEBUG mode
+2018-11-05 14:53:33 pid:7831 Workerman[start.php] stopping ...
+2018-11-05 14:53:33 pid:7831 Workerman[start.php] has been stopped
+2018-11-05 20:57:08 pid:8965 Workerman[start.php] start in DEBUG mode
+2018-11-11 22:04:05 pid:1140 Workerman[start.php] start in DEBUG mode
+2018-11-13 21:26:51 pid:3951 Workerman[start.php] start in DEBUG mode
+2018-11-13 21:26:51 pid:3951 Workerman[start.php] already running
+2019-03-26 15:41:51 pid:20961 Workerman[start.php] start in DAEMON mode
+2019-03-28 13:52:59 pid:13522 Workerman[start.php] start in DAEMON mode
+2019-03-28 22:39:21 pid:19790 Workerman[start.php] restart 
+2019-03-28 22:39:21 pid:19790 Workerman[start.php] is stopping ...
+2019-03-28 22:39:21 pid:13524 Workerman[start.php] stopping ...
+2019-03-28 22:39:21 pid:13524 Workerman[start.php] has been stopped
+2019-03-28 22:39:21 pid:19790 Workerman[start.php] stop success
+2019-04-01 08:29:43 pid:2733 Workerman[start.php] start in DAEMON mode
+2020-02-20 14:46:38 pid:10532 Workerman[start.php] start in DAEMON mode
+2020-02-20 14:57:23 pid:11083 Workerman[start.php] start in DAEMON mode
+2020-02-20 14:57:23 pid:11083 Workerman[start.php] already running
+2020-02-20 16:40:57 pid:10534 Workerman[start.php] stopping ...
+2020-02-20 16:41:46 pid:9993 Workerman[start.php] start in DAEMON mode
+2020-02-20 16:42:00 pid:10018 Workerman[start.php] start in DAEMON mode
+2020-02-21 05:30:01 pid:48850 Workerman[start.php] start in DAEMON mode
+2020-02-21 05:30:01 pid:48850 Workerman[start.php] already running
+2020-02-21 11:02:34 pid:66101 Workerman[start.php] start in DAEMON mode
+2020-02-21 11:02:34 pid:66101 Workerman[start.php] already running
+2020-02-21 17:50:58 pid:13917 Workerman[start.php] start in DAEMON mode
+2021-02-24 13:30:33 pid:117990 Workerman[start.php] start in DAEMON mode
+2021-02-24 13:32:43 pid:118525 Workerman[start.php] start in DAEMON mode
+2021-02-28 12:08:52 pid:99016 Workerman[start.php] stop 
+2021-02-28 12:08:52 pid:99016 Workerman[start.php] is stopping ...
+2021-02-28 12:08:57 pid:99016 Workerman[start.php] stop fail
+2021-02-28 12:09:01 pid:99032 Workerman[start.php] stop 
+2021-02-28 12:09:01 pid:99032 Workerman[start.php] is stopping ...
+2021-02-28 12:09:06 pid:99032 Workerman[start.php] stop fail
+2021-02-28 12:10:28 pid:99195 Workerman[start.php] stop 
+2021-02-28 12:10:28 pid:99195 Workerman[start.php] not run
+2021-02-28 12:10:56 pid:99277 Workerman[start.php] start in DAEMON mode
+2021-02-28 14:04:43 pid:115786 Workerman[start.php] stop 
+2021-02-28 14:04:43 pid:115786 Workerman[start.php] is stopping ...
+2021-02-28 14:04:48 pid:115786 Workerman[start.php] stop fail
+2021-02-28 14:05:48 pid:115940 Workerman[start.php] start in DAEMON mode
+2021-02-28 14:06:50 pid:116069 Workerman[start.php] stop 
+2021-02-28 14:06:50 pid:116069 Workerman[start.php] is stopping ...
+2021-02-28 14:06:55 pid:116069 Workerman[start.php] stop fail
+2021-02-28 14:07:23 pid:116119 Workerman[start.php] start in DAEMON mode
